@@ -30,7 +30,7 @@ This pipeline enables financial institutions to:
 ## Tech Stack 🖥️:
 Python, Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, Yellowbrick
 
-## Cluster Insights:
+## Cluster Insights
 All customers are divided into two clusters, each representing distinct characteristics.
 <p align="center">
   <img width="841" height="704" alt="Cluster Visualization using PCA" 
