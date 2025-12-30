@@ -1,11 +1,11 @@
-# Customer Segmentation Classification on Bank Transaction Data
+# 👥 Customer Segmentation Classification on Bank Transaction Data
 An end-to-end machine learning pipeline for discovering customer segments and predicting customer groups from bank transaction data.
 
 This project demonstrates an end-to-end machine learning pipeline that transforms raw, unlabeled bank transaction data into actionable customer segments and a predictive classification model.
 
 By combining unsupervised and supervised learning, the system is able to automatically discover customer groups and then predict the segment of new customers in real-world scenarios.
 
-## What I Did?
+## 📌 What I Did?
 + Performed extensive data cleaning, feature engineering, and preprocessing.
 + Applied K-Means clustering to discover natural customer segments from unlabeled data.
 + Interpreted each cluster to build meaningful customer personas.
@@ -14,23 +14,23 @@ By combining unsupervised and supervised learning, the system is able to automat
 + Tuned the best model using hyperparameter optimization.
 + Exported trained models and datasets for deployment-ready usage.
 
-## Key Contributions
+## 🔎 Key Contributions
 - Solves the real-world problem of missing customer labels.
 - Combines unsupervised and supervised learning into a single pipeline.
 - Produces both business insights and predictive models.
 - Models achieve excellent performance across multiple evaluation metrics.
 - Ready for real-world usage: models and processed datasets are exported.
 
-## Business Impact
+## 💰 Business Impact
 This pipeline enables financial institutions to:
 - Understand customer behavior patterns.
 - Automatically assign new customers into meaningful segments.
 - Support personalized marketing, product recommendation, and risk profiling.
 
-## Tech Stack 🖥️
+## 🖥️ Tech Stack 
 Python, Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, Yellowbrick
 
-## Cluster Insights
+## 📈 Cluster Insights
 All customers are divided into two clusters, each representing distinct characteristics.
 <p align="center">
   <img width="841" height="704" alt="Cluster Visualization using PCA" 
@@ -61,7 +61,7 @@ Despite their younger profile, Branch channel remains the dominant interaction m
 **Business Insight:**
 This segment is suitable for entry-level investment products, savings programs, financial education services, and growth-oriented customer development strategies.
 
-## Model Performance Evaluation
+## ⚙️ Model Performance Evaluation
 The performance of the Decision Tree and Random Forest models was evaluated using standard classification metrics, including accuracy, precision, recall, and F1-score, to assess their predictive reliability.
 
 **Decision Tree Performance:**
