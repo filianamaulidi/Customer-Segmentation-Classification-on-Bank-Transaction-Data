@@ -27,7 +27,7 @@ This pipeline enables financial institutions to:
 - Automatically assign new customers into meaningful segments.
 - Support personalized marketing, product recommendation, and risk profiling.
 
-## Tech Stack 🖥️:
+## Tech Stack 🖥️
 Python, Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, Yellowbrick
 
 ## Cluster Insights
