@@ -34,9 +34,16 @@ Python, Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, Yellowbrick
 All customers are divided into two clusters, each representing distinct characteristics.
 <p align="center">
   <img alt="Cluster Visualization using PCA" 
+       src="https://github.com/user-attachments/assets/db4cf7d3-180d-485d-a60e-eeec24731212" width='500'/>
+  <br>
+  <em>Figure 1. Clustering Result Ilustration</em>
+</p>
+
+<p align="center">
+  <img alt="Cluster Visualization using PCA" 
        src="https://github.com/user-attachments/assets/548b83cd-1679-442c-b5e0-ed2526018122" width='500'/>
   <br>
-  <em>Figure 1. Customer Segmentation Visualization using PCA</em>
+  <em>Figure 2. Customer Segmentation Visualization using PCA</em>
 </p>
 
 1. **Cluster 0: Mature & Financially Stable Customers**
